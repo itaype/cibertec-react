@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cibertec-react/static/css/main.12e04618.chunk.css",
+    "main.js": "/cibertec-react/static/js/main.27b1b477.chunk.js",
+    "main.js.map": "/cibertec-react/static/js/main.27b1b477.chunk.js.map",
+    "runtime-main.js": "/cibertec-react/static/js/runtime-main.6981c0b3.js",
+    "runtime-main.js.map": "/cibertec-react/static/js/runtime-main.6981c0b3.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/cibertec-react/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.074ebaf5.chunk.js": "/cibertec-react/static/js/2.074ebaf5.chunk.js",
+    "static/js/2.074ebaf5.chunk.js.map": "/cibertec-react/static/js/2.074ebaf5.chunk.js.map",
+    "index.html": "/cibertec-react/index.html",
+    "precache-manifest.a9d500341576c86eab07cf7c44dc25f6.js": "/cibertec-react/precache-manifest.a9d500341576c86eab07cf7c44dc25f6.js",
+    "service-worker.js": "/cibertec-react/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/cibertec-react/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.12e04618.chunk.css.map": "/cibertec-react/static/css/main.12e04618.chunk.css.map",
+    "static/js/2.074ebaf5.chunk.js.LICENSE": "/cibertec-react/static/js/2.074ebaf5.chunk.js.LICENSE",
+    "static/media/loading.svg": "/cibertec-react/static/media/loading.a1e184b8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6981c0b3.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.074ebaf5.chunk.js",
+    "static/css/main.12e04618.chunk.css",
+    "static/js/main.27b1b477.chunk.js"
+  ]
+}
